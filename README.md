@@ -1,2 +1,0 @@
-# ESB
-NRF52832_ESB_ptx简单传输
